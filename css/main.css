@@ -750,7 +750,10 @@ color: #6a737b !important;
 /*--[[FIN]]--BOTONES--*/
 /*--[[INICIO]]--CONTENEDORES--*/
 .contenedor_principal{
-	padding: 40px 0;
+	padding: 80px 0 0 0;
+}
+.section-cofirmacion{
+    padding:70px 0;
 }
 .td_container {
 	padding-right: 15px;
@@ -765,6 +768,9 @@ color: #6a737b !important;
 	margin-right: auto;
 	margin-left: auto;
 	overflow: hidden;
+}
+.cont-form-sm{
+max-width:400px;
 }
 @media (min-width: 768px) {
 	.td_container {

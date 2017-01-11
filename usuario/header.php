@@ -20,7 +20,7 @@
 		</div>
 		<div class="col-md-6 text-right">
 			Bienvenido,
-			Charlie Herrera
+			Charlie Herrero
 		</div>
 	</div>
 </header>
